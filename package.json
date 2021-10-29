@@ -43,9 +43,6 @@
     "reactotron-core-client": "2.8.10",
     "rn-host-detect": "1.2.0"
   },
-  "optionalDependencies": {
-    "react-native-flipper": "^0.34.0"
-  },
   "devDependencies": {
     "@babel/core": "7.15.5",
     "@babel/plugin-proposal-class-properties": "7.14.5",
